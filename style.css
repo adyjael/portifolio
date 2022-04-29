@@ -269,7 +269,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "O que eu forneço";
+    content: "O que forneço";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -377,7 +377,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "Quem trabalha comigo";
+    content: "Meus colegas";
 }
 .teams .carousel .card{
     background: #222;
@@ -440,7 +440,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "Entrar em contato";
+    content: "Contate-me";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
@@ -603,6 +603,7 @@ footer{
     }
   }
   @media (max-width:560px){
+   
     footer{
       position: relative;
     }
@@ -742,3 +743,4 @@ footer{
         line-height: 38px;
     }
 }
+
