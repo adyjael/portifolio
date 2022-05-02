@@ -440,7 +440,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "Contate-me";
+    content: "Contrata-me";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
@@ -743,4 +743,5 @@ footer{
         line-height: 38px;
     }
 }
+
 
