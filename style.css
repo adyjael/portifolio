@@ -398,7 +398,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover .box{
-    transform: scale(1.05);
+    transform: scale(1.08);
 }
 .teams .carousel .card .text{
     font-size: 25px;
